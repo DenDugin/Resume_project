@@ -64,7 +64,6 @@
 							<jsTargetDir>/static/js</jsTargetDir>
 							<verbose>true</verbose>
 							<jsEngine>CLOSURE</jsEngine>
-							<closureLanguage>ECMASCRIPT5</closureLanguage>
 						</configuration>
 						<goals>
 							<goal>minify</goal>
@@ -94,7 +93,6 @@
 							<jsTargetDir>/static/js</jsTargetDir>
 							<verbose>true</verbose>
 							<jsEngine>CLOSURE</jsEngine>
-							<closureLanguage>ECMASCRIPT5</closureLanguage>
 						</configuration>
 						<goals>
 							<goal>minify</goal>
