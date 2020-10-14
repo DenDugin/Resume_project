@@ -20,8 +20,8 @@ public class NotificationManagerServiceImpl implements NotificationManagerServic
 //	@Autowired
 //	private NotificationSenderService notificationSenderService;
 
-	@Autowired
-	private NotificationTemplateService notificationTemplateService;
+//	@Autowired
+//	private NotificationTemplateService notificationTemplateService;
 
 	@Override
 	public void sendRestoreAccessLink(Profile profile, String restoreLink) {
